@@ -1,285 +1,185 @@
-# 
+For a QA Chapter Lead, I would avoid turning the 1:1 into:
 
-This is where many QA managers make a mistake.
+* Sprint status updates
+* Jira ticket reviews
+* Test execution discussions
 
-They measure:
+Those belong with the squad and delivery lead.
 
-* Number of test cases executed
-* Number of defects raised
-* Automation scripts written
+Your 1:1 should help you answer:
 
-Those metrics are easy to collect but often poor indicators of performance.
+1. Is this person performing well?
+2. Is this person growing?
+3. What quality risks are they seeing?
+4. How can I help them become more effective?
 
-For example:
+With only 6 QAs, you can go quite deep.
 
-* A QA who raises 50 defects may be working on poor-quality software.
-* A QA who raises 5 defects may have prevented 20 through early requirement reviews.
-* A QA who writes 100 automation tests may contribute less value than one who automates the 10 most critical customer journeys.
+Recommended 45-Minute Structure
 
-⸻
+1. Personal Check-in (5 mins)
 
-First: What Should a Good QA Be Measured On?
+Start with open-ended questions.
 
-As a Chapter Lead, I would assess QAs across 5 dimensions.
+* How have things been since our last 1:1?
+* What has gone well recently?
+* What’s been frustrating?
+* How’s your workload feeling?
 
-Area	Weight
-Delivery Contribution	25%
-Quality Contribution	25%
-Technical Capability	20%
-Collaboration & Influence	15%
-Growth & Leadership	15%
+Look for:
 
-This gives a balanced view.
-
-⸻
-
-1. Delivery Contribution (25%)
-
-Questions:
-
-* Are they reliable?
-* Do they complete commitments?
-* Do they support releases effectively?
-
-Indicators:
-
-Good
-
-* Stories tested on time
-* Risks raised early
-* Consistent sprint contribution
-
-Poor
-
-* Missed commitments
-* Last-minute surprises
-* Reactive behavior
+* Burnout
+* Frustration
+* Motivation levels
+* Team dynamics
 
 ⸻
 
-2. Quality Contribution (25%)
+2. Squad Health & Quality (10 mins)
 
-This is often overlooked.
+This is where you gain visibility across squads.
 
-Questions:
+Ask:
 
-* Do they improve quality?
-* Do they identify risks early?
+Quality Risks
 
-Evidence:
+* What is the biggest quality risk in your squad right now?
+* What keeps you awake at night regarding upcoming releases?
+* What areas are under-tested?
+* What areas are over-tested?
 
-Requirement Reviews
+Delivery Challenges
 
-* Missing acceptance criteria found
-* Ambiguities identified
+* Are requirements good enough?
+* Are we getting involved early enough?
+* What slows testing down?
 
-Test Design
-
-* Strong edge-case coverage
-* Risk-based thinking
-
-Defect Discovery
-
-Not quantity.
-
-Focus on:
-
-* Severity
-* Impact
-* Early detection
+This information is often more valuable than dashboards.
 
 ⸻
 
-3. Technical Capability (20%)
+3. Individual Performance & Contribution (10 mins)
 
-For your environment:
+Ask:
 
-Areas
+* What achievement are you most proud of since our last meeting?
+* What contribution had the biggest impact?
+* What could have gone better?
+* If you could redo something, what would it be?
 
-* Playwright
-* API testing
-* Automation framework knowledge
-* CI/CD understanding
-* SQL
-* AI-assisted testing
-
-Rate:
-
-Skill	1-5
-Playwright	
-API Testing	
-Automation Design	
-AI Usage	
-
-Review quarterly.
+This helps identify self-awareness and ownership.
 
 ⸻
 
-4. Collaboration & Influence (15%)
+4. Growth & Career Development (10 mins)
 
-Often the difference between average and senior QA.
+As a line manager, this should be a major focus.
 
-Questions:
+Skills
 
-* Do developers trust them?
-* Do Product Owners seek their input?
-* Do they challenge requirements constructively?
+* What skill would you most like to improve?
+* What are you currently learning?
+* What technical area interests you most?
 
-Examples:
+Career
 
-Strong
+* Where do you see yourself in the next 2 years?
+* What role would you like next?
+* What is preventing you from getting there?
 
-* Influences design discussions
-* Raises concerns early
-* Helps the squad make better decisions
+Support
 
-Weak
-
-* Waits for instructions
-* Only participates during testing
+* How can I help accelerate your growth?
 
 ⸻
 
-5. Growth & Leadership (15%)
+5. AI & Innovation (5 mins)
 
-Questions:
+Since you want to drive AI transformation, make this a standing agenda item.
 
-* Are they improving?
-* Do they help others?
+Ask:
 
-Examples:
+* Have you used AI in your work recently?
+* What tasks consume most of your time?
+* What repetitive work should we eliminate?
+* What AI use case should we explore as a chapter?
 
-Strong
-
-* Mentors colleagues
-* Runs knowledge-sharing sessions
-* Experiments with AI
-* Improves processes
+Over time you’ll build an AI adoption roadmap.
 
 ⸻
 
-Simple Monthly Performance Tracker
+6. Chapter Feedback (5 mins)
 
-For each QA:
+This is where future leaders emerge.
 
-Category	Score (1-5)
-Delivery	
-Quality	
-Technical	
-Collaboration	
-Growth	
+Ask:
 
-Then:
-
-22-25
-
-Exceptional
-
-18-21
-
-Strong Performer
-
-14-17
-
-Meets Expectations
-
-Below 14
-
-Needs Support
+* What’s one thing we should improve as a QA chapter?
+* What standards are missing?
+* What capability should we invest in?
+* If you were Chapter Lead, what would you change?
 
 ⸻
 
-Questions to Ask Delivery Leads
+Questions I Would Ask Every QA This Month
 
-Because delivery is owned by squad leads, you should collect input from them.
-
-Quarterly ask:
-
-Delivery
-
-* How reliable is this QA?
+Because you’re trying to build chapter visibility, I would specifically ask these 10 questions:
 
 Quality
 
-* How much do they improve quality?
-
-Collaboration
-
-* How well do they work with the squad?
-
-Growth
-
-* Are they developing?
-
-⸻
-
-Questions to Ask Yourself After Every 1:1
-
-For each QA:
+1. What is the biggest quality risk in your squad?
+2. What is the biggest source of testing waste?
+3. What production issue are we most likely to see?
 
 Performance
 
-* What have they achieved recently?
-
-Capability
-
-* What are they strongest at?
-
-Risk
-
-* What concerns do I have?
+4. What achievement are you most proud of this month?
+5. What was your biggest challenge?
 
 Growth
 
-* What skill should they develop next?
+6. What skill are you currently developing?
+7. What skill do you want to develop next?
+
+AI
+
+8. What activity takes the most time today?
+9. How could AI help with that activity?
+
+Leadership
+
+10. If you were me, what would you focus on improving across the chapter?
 
 ⸻
 
-A Stronger Approach: Create Individual Scorecards
+Notes Template After Each 1:1
 
-For your 6 QAs, maintain:
+Don’t just have the conversation. Capture patterns.
 
-QA	Current Level	Potential	Next Role
-QA1	Mid	High	Senior
-QA2	Senior	High	Lead
-QA3	Mid	Medium	Senior
+Area	Notes
+Key Achievements	
+Quality Risks Raised	
+Development Goal	
+AI Opportunity	
+Support Needed	
+Follow-up Actions	
 
-And:
+After speaking to all 6 QAs, you’ll likely see recurring themes such as:
 
-QA	Biggest Strength	Biggest Gap
-QA1	Automation	Stakeholder skills
-QA2	Domain knowledge	Leadership
-QA3	API testing	Test strategy
+* Weak API automation
+* Poor acceptance criteria
+* Environment instability
+* AI opportunities
+* Training gaps
 
-This makes performance reviews much easier.
+Those themes become your Chapter Roadmap.
 
-⸻
+One Question That Often Reveals the Most
 
-One Thing I Would Add Given Your Goal
+If you only asked one strategic question, I would choose:
 
-Since you want to drive AI transformation, add a sixth dimension:
+“What is the single biggest thing preventing you from being more effective as a QA today?”
 
-Area	Weight
-AI & Innovation	10%
+Ask all six people the same question.
 
-Measure:
-
-* AI adoption
-* Process improvement ideas
-* Experimentation
-* Productivity improvements
-
-Not because AI usage itself matters, but because you want to reward people who improve how work is done.
-
-⸻
-
-For your specific setup (6 QAs, 3 squads), I would avoid complex KPIs. Instead, create a one-page talent matrix for all six people showing:
-
-* Performance (Low/Medium/High)
-* Potential (Low/Medium/High)
-* Technical strength
-* Leadership potential
-* AI adoption
-* Flight risk
-
-That single page will probably be more useful than dozens of QA metrics when you’re discussing promotions, succession planning, and readiness for Senior Chapter Lead.
+The answers will usually reveal where you should focus as a Chapter Lead far more effectively than looking at test execution or automation metrics.
