@@ -1,7 +1,17 @@
-During Q2, I supported the Darwin programme by driving adoption of an automation-first approach across the QA chapter while improving the visibility of automation metrics and promoting AI-assisted ways of working.
+Here’s a concise version that still highlights your leadership and impact while aligning with your Q2 objectives. Q2 Objectives.pdf
 
-I helped define and capture automation metrics across my squads, ensuring they were aligned with capability standards and could be used to monitor progress, identify opportunities for improvement, and support data-driven discussions with stakeholders.
+⸻
 
-A major focus during the quarter was accelerating the adoption of Generative AI throughout the QA lifecycle. I actively encouraged and coached engineers to incorporate AI into day-to-day activities including requirements analysis, test scenario identification, test case generation, automation code generation, code reviews, and reporting. As a result, the chapter has become increasingly proficient in using Claude Code, enabling engineers to improve productivity while maintaining engineering quality standards.
+Q2 Self Review
 
-Alongside AI adoption, I continued to reinforce automation-first engineering practices by ensuring squads made effective use of Zephyr test cycles as part of release readiness and execution. While this is a longer-term objective extending beyond Q2, good progress has been made towards establishing consistent testing and release governance across all squads.
+During Q2, I focused on strengthening the QA capability by improving release quality, increasing automation adoption, promoting AI-assisted ways of working, and enhancing engineering visibility through reporting.
+
+I improved release readiness by performing regular spot checks of Zephyr and test pipelines, reinforcing peer reviews of test cases, and encouraging the use of AI for requirements analysis, test scenario identification, and test case creation. These practices contributed to stable releases, with no major production defects attributable to QA.
+
+A key achievement was driving automation adoption in manual squads. Inferno progressed from 0% to 30% automation coverage while balancing BAU work, and Starfighter established an automation roadmap with 42% of regression scenarios identified for automation. I also supported the transition from the legacy Java framework to the TypeScript monorepo framework and mentored engineers moving from manual to automation testing.
+
+I contributed to engineering maturity by reviewing EMA/AppFire trends with chapter members and helped standardise QA reporting across the capability. Working with Gavin and fellow QA Chapter Leads, I supported capability-wide reporting, while partnering with Luke to develop dashboards and reporting that improved stakeholder visibility and supported his progression.
+
+Finally, I promoted an automation-first mindset by driving adoption of Claude Code and AI across the QA lifecycle, including requirements analysis, test case generation, code generation, reviews, and reporting. I also reinforced consistent use of Zephyr Test Cycles before releases, making good progress towards our annual Darwin and quality engineering objectives.
+
+Overall, Q2 has been about building a stronger QA capability, enabling teams to adopt modern engineering practices, and laying a solid foundation for further improvements in automation, AI adoption, and engineering maturity during Q3.
